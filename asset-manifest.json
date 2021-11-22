@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/casper_demo_web/static/css/main.fdd445d0.chunk.css",
+    "main.js": "/casper_demo_web/static/js/main.000f012b.chunk.js",
+    "main.js.map": "/casper_demo_web/static/js/main.000f012b.chunk.js.map",
+    "runtime-main.js": "/casper_demo_web/static/js/runtime-main.2fa004f0.js",
+    "runtime-main.js.map": "/casper_demo_web/static/js/runtime-main.2fa004f0.js.map",
+    "static/js/2.1a750304.chunk.js": "/casper_demo_web/static/js/2.1a750304.chunk.js",
+    "static/js/2.1a750304.chunk.js.map": "/casper_demo_web/static/js/2.1a750304.chunk.js.map",
+    "index.html": "/casper_demo_web/index.html",
+    "static/css/main.fdd445d0.chunk.css.map": "/casper_demo_web/static/css/main.fdd445d0.chunk.css.map",
+    "static/js/2.1a750304.chunk.js.LICENSE.txt": "/casper_demo_web/static/js/2.1a750304.chunk.js.LICENSE.txt",
+    "static/media/Home.css": "/casper_demo_web/static/media/main-bg.6b03c037.jpg",
+    "static/media/connect-bg.00bcbc01.jpg": "/casper_demo_web/static/media/connect-bg.00bcbc01.jpg",
+    "static/media/ConnectWallete.css": "/casper_demo_web/static/media/connect.00bcbc01.jpg",
+    "static/media/footer-logo.9dcadf37.png": "/casper_demo_web/static/media/footer-logo.9dcadf37.png",
+    "static/media/Project.css": "/casper_demo_web/static/media/project-bg.be00945b.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.2fa004f0.js",
+    "static/js/2.1a750304.chunk.js",
+    "static/css/main.fdd445d0.chunk.css",
+    "static/js/main.000f012b.chunk.js"
+  ]
+}
