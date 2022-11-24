@@ -7,7 +7,7 @@ For learn React.js functionality
 This application is single page application and there is some animation as page changing and scrolling but This Application is not responsive and there is some issue via deploying project to giThub, I will update soon.
 
 ## Technology:-
-CSS, React.js ; 
+CSS, React.js, React-Router-Dom ; 
 
 
 # Getting Started with Create React App
